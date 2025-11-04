@@ -4,25 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ca30e45902a5ae67",
+        "id": "ae2803e9784229b6",
         "type": "tabs",
         "children": [
           {
-            "id": "44d230f439bde7e5",
+            "id": "e6e8f70502a11043",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUN/posPaper1_ECPMUN2025.md",
+                "file": "Other/spoken-word-final.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "posPaper1_ECPMUN2025"
+              "title": "spoken-word-final"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUN/posPaper1_ECPMUN2025.md",
+                "file": "Other/spoken-word-final.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of posPaper1_ECPMUN2025"
+              "title": "Outline of spoken-word-final"
             }
           }
         ],
@@ -171,17 +170,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "44d230f439bde7e5",
+  "active": "e6e8f70502a11043",
   "lastOpenFiles": [
-    "MUN/posPaper2_ECPMUN2025.md",
-    "MUN/posPaper1_ECPMUN2025.md",
+    "Other/spoken-word-prep.md",
+    "Other/spoken-word-final.md",
     "Other/LaTeX.md",
+    "MUN/posPaper1_ECPMUN2025.md",
+    "MUN/posPaper2_ECPMUN2025.md",
     "MUN/notes.md",
     "MUN/res1_ECPMUN2025.md",
     "PDFs/res1_ECPMUN2025.pdf",
     "Other/dialog-CZH.md",
     "PDFs/dialog-CZH.pdf",
-    "Other/spoken-word.md",
     "PDFs/poster- Augusto Boal - CUL.pdf",
     "PDFs",
     "Other/physics practical.md",

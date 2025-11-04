@@ -3,5 +3,5 @@ $$
 $$
 
 $$
-\frac{\sqrt{a}}{\sqrt{b}} = \sqrt{\frac{a}{b}}
+\dfrac{\sqrt{a}}{\sqrt{b}} = \sqrt{\dfrac{a}{b}}
 $$
