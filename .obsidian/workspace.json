@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/spoken-word-final.md",
+                "file": "Other/science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "spoken-word-final"
+              "title": "science"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "e6e8f70502a11043",
   "lastOpenFiles": [
-    "Other/spoken-word-prep.md",
     "Other/spoken-word-final.md",
+    "Other/science.md",
+    "Other/spoken-word-prep.md",
     "Other/LaTeX.md",
     "MUN/posPaper1_ECPMUN2025.md",
     "MUN/posPaper2_ECPMUN2025.md",
